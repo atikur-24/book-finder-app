@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "book_name": "JavaScript and Jquery",
+    "book_image": "books/js.png",
+    "author_name": "Jon Smith",
+    "publication_year": 2003,
+    "price": 80,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 2,
+    "book_name": "Python Programming",
+    "book_image": "books/js.png",
+    "author_name": "Kelly Johnson",
+    "publication_year": 2010,
+    "price": 95,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" },
+      { "id": 5, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 3,
+    "book_name": "Data Science Essentials",
+    "book_image": "books/js.png",
+    "author_name": "Williams",
+    "publication_year": 2015,
+    "price": 30,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 4,
+    "book_name": "Web Development Basics",
+    "book_image": "books/js.png",
+    "author_name": "Jones Smith",
+    "publication_year": 2018,
+    "price": 60,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 5,
+    "book_name": "Artificial Intelligence",
+    "book_image": "books/js.png",
+    "author_name": "Brown Doe",
+    "publication_year": 2022,
+    "price": 65,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" },
+      { "id": 5, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 6,
+    "book_name": "Machine Learning",
+    "book_image": "books/js.png",
+    "author_name": "Davis Franklin",
+    "publication_year": 2019,
+    "price": 75,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 7,
+    "book_name": "Mobile App Development",
+    "book_image": "books/js.png",
+    "author_name": "David Miller",
+    "publication_year": 2017,
+    "price": 90,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" },
+      { "id": 5, "star": "/public/star.svg" }
+    ]
+  },
+  {
+    "id": 8,
+    "book_name": "Databases and SQL",
+    "book_image": "books/js.png",
+    "author_name": "Wilson Kelson",
+    "publication_year": 2014,
+    "price": 80,
+    "rating": [
+      { "id": 1, "star": "/public/star.svg" },
+      { "id": 2, "star": "/public/star.svg" },
+      { "id": 3, "star": "/public/star.svg" },
+      { "id": 4, "star": "/public/star.svg" }
+    ]
+  }
+]
