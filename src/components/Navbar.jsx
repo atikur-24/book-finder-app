@@ -1,6 +1,6 @@
 import LWSLogo from "../assets/lws-logo-en.svg";
 
-export default function Header() {
+export default function Navbar() {
   return (
     <nav className="py-6">
       <div className="container mx-auto flex max-w-7xl items-center justify-between gap-x-6">
